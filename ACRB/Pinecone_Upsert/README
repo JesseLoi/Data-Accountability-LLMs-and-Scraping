@@ -1,0 +1,1 @@
+This folder primarily contains code to upload scraped data to a Pinecone database. With the database, we can make queries to the available data.
