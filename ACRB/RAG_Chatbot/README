@@ -1,0 +1,1 @@
+This contains code for the rag chatbot. It is currently being prototyped. We are planning on using a Dynamic DNS such as DuckDNS to tunnel the work machine with a public URL on Streamlit.
